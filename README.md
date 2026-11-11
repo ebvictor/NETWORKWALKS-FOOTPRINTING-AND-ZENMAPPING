@@ -153,40 +153,41 @@ Evidence 1 – WHOIS attempt (PM1)
 
 ![Screenshot description](Images%20./Screenshoot1.PNG)
 
-Show the command and name-resolution error.
-Evidence 2 – WhatWeb output (PM1)
-
-[ SCREENSHOT PLACEHOLDER ]
-
 Capture actual whatweb networkwalks.com output.
 Evidence 3 – Nslookup and Curl outputs (PM1)
 
-[ SCREENSHOT PLACEHOLDER ]
+![Screenshot 3](Images%20./Screenshot3.png)
 
 Capture actual DNS lookup and HTTP header outputs.
 Evidence 4 – Wafw00f and DNSRecon outputs (PM1)
 
-[ SCREENSHOT PLACEHOLDER ]
+![Screenshot 4](Images%20./Screenshot4.png)
 
-Capture both actual command outputs.
-Evidence 5 – ipconfig / local network details (PM5)
+![Screenshot 5](Images%20./Screenshot5.png)
 
-[ SCREENSHOT PLACEHOLDER ]
+
+
+Capture WAFw00f
+Evidence 5 – WAFw00f (PM5)
+
+![Screenshot 6](Images%20./Screenshot6.png)
+
 
 Show IPv4 address, subnet mask and gateway.
 Evidence 6 – Zenmap Ping Scan (PM5)
 
-[ SCREENSHOT PLACEHOLDER ]
+![Screenshot 8](Images%20./Screenshot8.png)
 
-Show target 192.168.57.0/24 and one host up.
-Evidence 7 – ARP table / MAC information (PM5)
+Show ipconfig results
+Evidence 7 – Ipconfig
 
-[ SCREENSHOT PLACEHOLDER ]
+![Screenshot 10](Images%20./Screenshot10.png)
 
-Show relevant local entries.
-Evidence 8 – Zenmap Topology PDF (PM5)
+Capture dnsrecon -d networkwalks.com
+Evidence 8 - Dns
 
-[ SCREENSHOT PLACEHOLDER ]
+![Screenshot 7](Images%20./Screenshot07.png)
+
 
 10. Project Information
 
