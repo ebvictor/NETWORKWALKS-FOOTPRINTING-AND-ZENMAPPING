@@ -151,7 +151,7 @@ The two practical modules introduced complementary information-gathering stages.
 9. Evidence / Screenshots
 Evidence 1 – WHOIS attempt (PM1)
 
-![Evidence 1 - WHOIS attempt](Screenshot1.PNG)
+![Screenshot description](Images%20./Screenshoot1.PNG)
 
 Show the command and name-resolution error.
 Evidence 2 – WhatWeb output (PM1)
